@@ -2,7 +2,7 @@
 
 &nbsp;
 ## Full illustration of our Model 
-<img src='assets\UDGAN_model.png' align="left">  
+<img src='Assets\UDGAN_model.png' align="left">  
 
 
 
@@ -20,7 +20,7 @@ One of the most important tasks in image-to-image translation is semantic image 
 * **Cityscapes:**
 
 <p align='center'>  
-  <img src='assets/city_results.png'/>
+  <img src='Assets/city_results.png'/>
 </p>
 
 
