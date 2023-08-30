@@ -1,12 +1,9 @@
 # Efficient Semantic Image Synthesis with Normalization Layers and Depth Estimation (UDGAN)
 
 &nbsp;
+## Full illustration of our Model 
+<img src='assets\UDGAN_model.png' align="left">  
 
-<img src='assets\framework.png' align="left">  
-
-&nbsp;
-
-<img src='assets\results.png' align="left">  
 
 
 &nbsp;
